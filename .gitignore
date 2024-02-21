@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# Python env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/*
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Miscellaneous
+.DS_Store
