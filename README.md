@@ -11,8 +11,8 @@ To run this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/house-price-prediction.git
-    cd house-price-prediction
+    git clone https://github.com/haaljarrah/home_price.git
+    cd home_price
     ```
 
 2. Install the required dependencies:
@@ -56,7 +56,7 @@ Run the Streamlit application to interact with the model:
 streamlit run app/app.py
 ```
 
-Visit [http://localhost:8501](http://localhost:8501) in your web browser to access the application.
+Visit [http://localhost:8501/](http://localhost:8501) in your web browser to access the application.
 
 ## Additional Information
 
